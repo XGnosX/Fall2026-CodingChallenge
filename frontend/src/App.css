@@ -94,6 +94,11 @@ button:hover {
   font-size: 18px;
 }
 
+.collection-card button:first-child:hover {
+  background: #e6e6e6;
+  color: #000;
+}
+
 .collection-card button:last-child {
   background: #333;
 }
