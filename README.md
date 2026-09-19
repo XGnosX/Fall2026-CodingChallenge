@@ -5,6 +5,7 @@ We need information about how to download and run your program, especially if yo
 - Download all the files (git clone)
 - Open "Fall2026-CodingChallenge" folder in a new window of an IDE
 - Open terminal and cd to backend
+- If needed: run "npm install"
 - Run the backend through terminal using "node server.js"
 - Open another terminal and cd to frontend
 - Run "npm install"
