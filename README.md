@@ -10,7 +10,7 @@ We need information about how to download and run your program, especially if yo
 - Open another terminal and cd to frontend
 - Run "npm install"
 - Run the frontend through terminal using "npm run dev"
-- Open the localhost url from Vite and paste into browser
+- Open the localhost url from frontend terminal and paste into browser
 
 We want you to include a brief (under 100 words) reflection about the challenge. Did you learn anything new? Reinforce any known concepts? Any issues come up?
 - I made a small website before using HTML and CSS, but this is the first time I tried both frontend and backend development, as well as my first introduction to React, Node, Vite, GitHub, and an API. For some reason this week was particularly busy for me, but if I were to have more time, I would definitely improve the UI, add a side navbar, add more functionality such as deleting collections, and separate the image search with collections. I learned a lot of new concepts, and am more than excited to continue developing in the future.
