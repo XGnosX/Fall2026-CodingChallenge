@@ -11,7 +11,7 @@ function App() {
   const [selectedCollectionId, setSelectedCollectionId] = useState("");
   const [sharedCollection, setSharedCollection] = useState(null);
   const [shareUrl, setShareUrl] = useState("");
-  const [cfopied, setCopied] = useState(false);
+  const [copied, setCopied] = useState(false);
 
   // Gets shareId from search bar if share is in url
   const shareId = new URLSearchParams(window.location.search).get("share");
