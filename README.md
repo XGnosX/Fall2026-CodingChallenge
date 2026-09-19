@@ -4,7 +4,7 @@ Vanderbilt email: chloe.song@vanderbilt.edu
 We need information about how to download and run your program, especially if you are using an unconventional programming method. Please write down some instructions for us to follow to properly see your program.
 - Download all the files (git clone)
 - Open terminal and cd to frontend
-- Run "install npm"
+- Run "npm install"
 - Run the frontend through terminal using "npm run dev"
 - Open terminal another terminal and cd to backend
 - Run the backend through terminal using "node server.js"
